@@ -50,19 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyD4A0mStZq8O2ceswyIYD44HpR62K0Wl_w',
-    appId: '1:946207521855:android:6d9f7a7c3e1d9edda30c8a',
-    messagingSenderId: '946207521855',
-    projectId: 'decoded-theme-355014',
-    storageBucket: 'decoded-theme-355014.appspot.com',
+    apiKey: 'AIzaSyCLjzU2-KoSKLd37p6V8W9FlwdXnMa4CMs',
+    appId: '1:828253087072:android:98920abc3a4bc79ec1ea05',
+    messagingSenderId: '828253087072',
+    projectId: 'tramline-2e4e6',
+    storageBucket: 'tramline-2e4e6.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC79bdTpdkvxV0U1oeGNz_F9jVNN6F7J5w',
-    appId: '1:946207521855:ios:58b432613cef4749a30c8a',
-    messagingSenderId: '946207521855',
-    projectId: 'decoded-theme-355014',
-    storageBucket: 'decoded-theme-355014.appspot.com',
-    iosBundleId: 'org.tramline.ueno',
+    apiKey: 'AIzaSyCED4pD3-hoyuc6GGG9CsCw_5NTcHcoiYQ',
+    appId: '1:828253087072:ios:d430cf6ecfd74e48c1ea05',
+    messagingSenderId: '828253087072',
+    projectId: 'tramline-2e4e6',
+    storageBucket: 'tramline-2e4e6.firebasestorage.app',
+    iosBundleId: 'com.tramline.ueno',
   );
+
 }
