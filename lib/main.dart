@@ -10,6 +10,8 @@ import 'package:package_info_plus/package_info_plus.dart';
 import 'package:flutter/widgets.dart';
 import 'package:bugsnag_flutter/bugsnag_flutter.dart';
 
+
+// release 2
 Future<void> main() async {
   await bugsnag.start(
     apiKey:
